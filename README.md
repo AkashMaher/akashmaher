@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**AkashMaher/akashmaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Akash Maher
 
-Here are some ideas to get you started:
+### Hi, there 👋
+- Live in Pune, Maharashtra (IN)
+- Education : BE Final Year
+- Branch : CSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 __Experience__
+- Blockchain Developer
+- Web3.0 Developer
+- Full Stack Developer
+- Discord Bot Developer
+- Smart Contract Developer
+
+## 🔑 __Skills__
+[![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)](https://reactjs.org/)
+[![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)](https://www.python.org/)
+[![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)](https://nodejs.org/)
+[![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+[![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Solidity](https://svgshare.com/i/nBR.svg)](https://soliditylang.org/)
