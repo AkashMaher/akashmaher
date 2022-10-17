@@ -20,4 +20,4 @@
 [![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 [![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Solidity](https://svgshare.com/i/nBR.svg)](https://soliditylang.org/)
-[![NextJS]([https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg))](https://expressjs.org)
+[![NextJS]([https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)](https://expressjs.org)
