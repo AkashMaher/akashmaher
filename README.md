@@ -21,3 +21,5 @@
 [![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Solidity](https://svgshare.com/i/nBR.svg)](https://soliditylang.org/)
 [![NextJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)](https://expressjs.org)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashmaher&show_icons=true&locale=en" alt="akashmaher" /></p>
