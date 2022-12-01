@@ -9,6 +9,7 @@
 ## 🛠 __Experience__
 - Blockchain Developer
 - Web3.0 Developer
+- React/ Next Js 
 - Full Stack Developer
 - Discord Bot Developer
 - Smart Contract Developer
