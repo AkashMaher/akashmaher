@@ -3,7 +3,7 @@
 
 ### Hi, there 👋
 - Live in Pune, Maharashtra (IN)
-- Education : BE Final Year
+- Education : BE
 - Branch : CSE
 
 ## 🛠 __Experience__
