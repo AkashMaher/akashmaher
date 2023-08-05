@@ -4,7 +4,7 @@
 ### Hi, there 👋
 - Live in Pune, Maharashtra (IN)
 - Education : BE
-- Branch : CSE
+- Branch : Computer Engineering
 
 ## 🛠 __Experience__
 - Blockchain Developer
@@ -31,3 +31,6 @@
 
 ## __Git Stats__
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashmaher&show_icons=true&locale=en" alt="akashmaher" /></p>
+
+## __Profile View__
+![](https://komarev.com/ghpvc/?username=akashmaher)
