@@ -29,8 +29,5 @@
 [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-## __Git Stats__
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashmaher&show_icons=true&locale=en" alt="akashmaher" /></p>
-
 ## __Profile View__
 ![](https://komarev.com/ghpvc/?username=akashmaher)
